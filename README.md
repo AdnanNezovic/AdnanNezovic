@@ -43,6 +43,9 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="matplotlib" width="40" height="40">
 </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="40" height="40">
+</a>
 
 <h3 align="left">🤝🏻 Connect with me</h3>
 <p align="left" style="display:flex; gap:10px; align-items:center;">

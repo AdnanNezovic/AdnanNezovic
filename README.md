@@ -1,12 +1,12 @@
 </p><h2>Hey there! I’m Adnan 👋 💯</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and I am currently interested in Data Engeneering and robust Software Systems.<br>
-🎓 &nbsp;I’m currently studying Computer Science at the University Kassel.<br>
-🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, Cloud Architecture and Datas in general.<br>
-✍️ &nbsp;In my free time, I like to do a lot of sports and reading books.<br>
-💬 &nbsp;Feel free to reach out to me.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">adnannoah2001@gmail.com</a>! I’ll try to respond as soon as I can.<br><br>
+<p>💡 &nbsp;I like to explore new technologies and I am currently interested in Data Engeneering and robust Software Systems<br>
+🎓 &nbsp;I’m currently studying Computer Science at the University Kassel<br>
+🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, Cloud Architecture and Datas in general<br>
+✍️ &nbsp;In my free time, I like to do a lot of sports and reading books<br>
+💬 &nbsp;Feel free to reach out to me<br>
+✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">adnannoah2001@gmail.com</a>! I’ll try to respond as soon as I can<br><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="topmiddl">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 
